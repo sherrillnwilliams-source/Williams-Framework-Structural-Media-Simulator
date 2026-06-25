@@ -58,8 +58,9 @@ Mathematical framework and implementation details available to serious partners 
 If this is relevant to what you're building, let's talk.
 
 **Sherrill Williams**
-💼 [your LinkedIn URL]
-🐙 [your GitHub URL]
+💼 www.linkedin.com/in/sherrill-williams-ab7963393
+email: sherrill.n.williams@gmail.com
+🐙 https://github.com/sherrillnwilliams-source/Williams-Framework-Structural-Media-Simulator
 
 ---
 
